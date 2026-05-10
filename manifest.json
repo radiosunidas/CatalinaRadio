@@ -1,6 +1,6 @@
 {
     "name": "Catalina Radio",
-    "short_name": "[103.1 FM] - Pausa Ayacucho",
+    "short_name": "[103.1 FM]",
     "start_url": "./?mode=pwa",
     "display": "standalone",
     "background_color": "#0000FF",
